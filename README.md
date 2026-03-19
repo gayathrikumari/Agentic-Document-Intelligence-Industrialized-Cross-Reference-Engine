@@ -128,9 +128,7 @@ PDF Blueprints + Excel Master Book
 **Gayathri Kumar**  
 Data Scientist & AI Engineer | Ex-Deloitte | MS Information Science @ UNT  
 📧 gayathrikumar.tx@gmail.com  
-🔗 [LinkedIn](#) | [GitHub](#)
+🔗 [([Linkedin](https://www.linkedin.com/in/gayathri-kumar-link/))](#) | [GitHub](#)
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License.
